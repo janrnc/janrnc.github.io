@@ -1,9 +1,9 @@
-baseURL: 'https://janrnc.github.io'
-languageCode: 'en-US'
-title: 'Jan Franchini'
-theme: 'PaperMod'
+baseURL: "https://janrnc.github.io"
+languageCode: "en-US"
+title: "Jan Franchini"
+theme: "PaperMod"
 Home:
-  Permalink: 'https://janrnc.github.io'
+  Permalink: "https://janrnc.github.io"
 
 DefaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
@@ -35,7 +35,7 @@ languages:
     profileMode:
       enabled: true
       title: "Jan Franchini"
-      subtitle: "Computer Engineering student | Software Developer"
+      subtitle: "Software Developer"
       imageUrl: "/images/profile.png"
       imageTitle: "Profile image"
       imageWidth: 140
@@ -59,8 +59,6 @@ languages:
     languageAltTitle: Italiano
     weight: 2
     DateFormat: "2 January 2006"
-    profileMode:
-      subtitle: "La mia pagina personale"
     menu:
       main:
         - name: Archivio
@@ -75,7 +73,7 @@ languages:
     profileMode:
       enabled: true
       title: "Jan Franchini"
-      subtitle: "Studente di Ingegneria Informatica | Sviluppatore Software"
+      subtitle: "Sviluppatore Software"
       imageUrl: "/images/profile.png"
       imageTitle: "Profile image"
       imageWidth: 140
